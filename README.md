@@ -1,2 +1,7 @@
-# ruby-junior-roadmap
-Required skills for ruby junior developer
+# Ruby/Ruby on Rails junior roadmap
+
+## Ruby
+  - Enumerable module
+  - lambda, proc, blocks
+  - array
+  - metaprogramming
