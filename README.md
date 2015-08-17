@@ -11,3 +11,6 @@
 
 ## Dependency management
   - [Clarifying the Roles of the `.gemspec` and `Gemfile`](http://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile)
+
+## Javascript
+  - [Scope, closure](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
